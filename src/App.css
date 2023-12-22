@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* navbar */
+.navbar {
+  height: 70px;
+}
+
+.nav .nav-link {
+  color: black;
+}
+
+.nav .nav-link:hover {
+  color: red;
+}
+
+.nav .btn {
+  height: 40px;
+}
+
+/* home */
